@@ -14,7 +14,7 @@ members = [
     "nova",
     "spartan",
     "core",
-    "jolt",
+    "jolt", "nexus-project",
 ]
 default-members = [
     "vm",
